@@ -1,0 +1,9 @@
+streamlit==1.38.0
+chromadb==0.5.5
+sentence-transformers==3.1.1
+python-dotenv==1.0.1
+pypdf==5.1.0
+markdown==3.7
+tqdm==4.66.5
+requests==2.32.3
+ollama==0.3.3
